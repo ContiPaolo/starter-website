@@ -1,11 +1,9 @@
 ---
-title: "Multi-fidelity regression using artificial neural networks: Efficient approximation of parameter-dependent output quantities"
+title: "Multi-fidelity surrogate modeling using long short-term memory networks"
 authors:
 - admin
 - Mengwu Guo
 - Andrea Manzoni
-- Maurice Amendt
-- Paolo Conti
 - Jan S. Hesthaven
 
 # author_notes:
