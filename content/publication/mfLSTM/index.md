@@ -38,8 +38,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://arxiv.org/abs/2102.13403
-url_code: 'https://www.sciencedirect.com/science/article/pii/S0045782521006411'
+url_pdf: 'https://arxiv.org/pdf/2208.03115.pdf'
+url_code: 'https://www.sciencedirect.com/science/article/abs/pii/S0045782522007678'
 url_dataset: ''
 url_poster: ''
 url_project: ''
