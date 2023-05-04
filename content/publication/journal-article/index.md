@@ -1,11 +1,10 @@
 ---
 title: "Multi-fidelity regression using artificial neural networks: Efficient approximation of parameter-dependent output quantities"
 authors:
-- admin
 - Mengwu Guo
 - Andrea Manzoni
 - Maurice Amendt
-- Paolo Conti
+- admin
 - Jan S. Hesthaven
 
 # author_notes:
