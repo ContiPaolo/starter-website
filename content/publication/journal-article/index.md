@@ -40,8 +40,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://arxiv.org/abs/2102.13403)
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_pdf: https://arxiv.org/abs/2102.13403
+url_code: 'https://www.sciencedirect.com/science/article/pii/S0045782521006411'
 url_dataset: ''
 url_poster: ''
 url_project: ''
