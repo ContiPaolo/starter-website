@@ -44,9 +44,9 @@ sections:
           company: Artificial Intelligence Institue in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
           company_logo: AI_logo
-          location: Seattle
+          location: University of Washington, Seattle
           date_start: '2022-10-01'
-          date_end: ''
+          date_end: '2023-06-01'
           description: |2-
               Responsibilities include:
 
