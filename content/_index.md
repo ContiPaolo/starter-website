@@ -43,7 +43,7 @@ sections:
         - title: Visiting PhD Student
           company: Artificial Intelligence Institue in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
-          company_logo: org-gc
+          company_logo: AI_logo
           location: Seattle
           date_start: '2022-10-01'
           date_end: ''
