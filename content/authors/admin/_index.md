@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/Paolo_Conti_CV_PhD.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'paolo.conti@polimi.it'
