@@ -1,10 +1,11 @@
 ---
-title: "Multi-fidelity surrogate modeling using long short-term memory networks"
+title: "Reduced order modeling of parametrized systems through autoencoders and SINDy approach: continuation of periodic solutions"
 authors:
 - admin
-- Mengwu Guo
+- Giorgio Gobat
+- Stefania Fresca
 - Andrea Manzoni
-- Jan S. Hesthaven
+- Attilio Frangi
 
 # author_notes:
 # - "Equal contribution"
