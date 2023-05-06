@@ -44,12 +44,7 @@ sections:
           location: Paris, France
           date_start: '2019-01-01'
           date_end: '2020-07-01'
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+          description:
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
