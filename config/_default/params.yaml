@@ -112,3 +112,9 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+# Education
+[[education.courses]]
+  course = "Course name"
+  institution = "Institution name"
+  year = "Graduation year"
