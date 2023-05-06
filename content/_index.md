@@ -37,8 +37,8 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: 
-          company: Sorbonne University
+        - title: Exchange student
+          company: Applied Mathematics, Sorbonne University
           company_url: 'https://www.sorbonne-universite.fr/en'
           company_logo: Sorbonne
           location: Paris, France
