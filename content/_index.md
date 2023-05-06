@@ -24,9 +24,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Visiting PhD Student
+        - title: Research Intern
           company: Artificial Intelligence Institute in Dynamic Systems
           company_url: 'https://dynamicsai.org/'
+          company_logo: AI_logo
+          location: University of Washington, Seattle
+          date_start: '2022-10-01'
+          date_end: '2023-06-01'
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        - title: 
+          company: Sorbonne University
+          company_url: 'https://www.sorbonne-universite.fr/en'
           company_logo: AI_logo
           location: University of Washington, Seattle
           date_start: '2022-10-01'
