@@ -40,10 +40,10 @@ sections:
         - title: 
           company: Sorbonne University
           company_url: 'https://www.sorbonne-universite.fr/en'
-          company_logo: AI_logo
-          location: University of Washington, Seattle
-          date_start: '2022-10-01'
-          date_end: '2023-06-01'
+          company_logo: Sorbonne
+          location: Paris, France
+          date_start: '2019-01-01'
+          date_end: '2020-07-01'
           description: |2-
               Responsibilities include:
 
