@@ -112,3 +112,23 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+  
+# Education widget
+widget:
+  - name: education
+    enabled: true
+    content:
+      # Display item entries from `content/home/education` folder.
+      # To create `content/home/education/coursename.md`, run:
+      # `hugo new --kind education content/home/education/coursename.md`.
+      # See https://wowchemy.com/docs/managing-content/ for more info.
+      page_type: education
+      # Page title.
+      title: Education
+      # Automatically link to pages in `content/home/education/`.
+      # Choose `false` to manually define link list format in `content/home/education.md`.
+      link_to_archive: true
+      # Show the date you started and/or finished the course?
+      show_date: true
+      # Show course description below the course title?
+      show_description: true
