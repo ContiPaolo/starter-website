@@ -49,10 +49,11 @@ sections:
           company: International Gymnastics Federation
           company_url: ''
           company_logo: org-x
-          location: Italy
+          location: Bergamo, Italy
           date_start: '2010-01-01'
           date_end: '2020-12-31'
-          description: Member of the National Team of Aerobic Gymnastics
+          description: Member of the National Team of Aerobic Gymnastics.
+          Experiences in coaching and coreographing in Italy, France, Finland, Hungary and Lithuania.
     design:
       columns: '2'
 #  - block: collection
