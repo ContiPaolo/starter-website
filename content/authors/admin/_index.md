@@ -80,19 +80,7 @@ email: 'paolo.conti@polimi.it'
 highlight_name: true
 ---
 
+I am a PhD student in scientific machine learning at Polytecnic University of Milan. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my reasearch activities. 
 Lifelong learning is my attitude and working day-by-day for long-term goals my methodology.
 
-Mathematical engineer by formation, aerobic gymnast by passion.
-
-::: columns
-:::: column
-- Reduced order modeling
-- Scientific machine learning
-- Multi-fidelity data fusion
-::::
-:::: column
-- PhD in Scientific Machine Learning, Politecnico di Milano (In progress)
-- MSc in Mathematical Engineering, Politecnico di Milano (2021)
-- BSc in Mathematical Engineering, Politecnico di Milano (2019)
-::::
-:::
+{style="text-align: justify;"}
