@@ -83,4 +83,11 @@ highlight_name: true
 I am a PhD student in scientific machine learning at Polytecnic University of Milan. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my reasearch activities. 
 Lifelong learning is my attitude and working day-by-day for long-term goals my methodology.
 
+
+| Interests                  | Education                      |
+| ------------------------- | ------------------------------|
+| Reduced Order Modeling    | BSc in Mathematical Engineering |
+| Scientific Machine Learning | MSc in Mathematical Engineering |
+| Multi-Fidelity Data Fusion | PhD in Scientific Machine Learning (in progress) |
+
 {style="text-align: justify;"}
