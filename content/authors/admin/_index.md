@@ -32,6 +32,7 @@ interests:
 
 # Education to show in About widget
 education:
+  courses:
     - course: PhD in Scientific Machine Learning
       institution: Politecnico di Milano
       year: In progress
@@ -90,4 +91,5 @@ Lifelong learning is my attitude and working day-by-day for long-term goals my m
 | - Reduced Order Modeling      | - BSc in Mathematical Engineering                  |
 | - Scientific Machine Learning | - MSc in Mathematical Engineering                  |
 | - Multi-Fidelity Data Fusion  | - PhD in Scientific Machine Learning (in progress) |
+{style="text-align: justify;"}
 
