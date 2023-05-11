@@ -16,10 +16,23 @@ superuser: true
 # Role/position/tagline
 role: PhD student
 
-# Organizations/Affiliations to show in About widget
+# Education to show in About widget
 organizations:
-  - name: Politecnico di Milano
-    url: https://www.polimi.it/
+  courses:
+    - course: PhD in Scientific Machine Learning
+      institution: Politecnico di Milano
+      year: In progress
+    - course: MSc in Mathematical Engineering
+      institution: Politecnico di Milano
+      year: 2021
+    - course: BSc in Mathematical Engineering
+      institution: Politecnico di Milano
+      year: 2019
+
+# Organizations/Affiliations to show in About widget
+# organizations:
+#  - name: Politecnico di Milano
+#    url: https://www.polimi.it/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
