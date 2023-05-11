@@ -11,8 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: 
-      I am a PhD student in scientific machine learning at Polytecnic University of Milan. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my reasearch activities. 
+      text: I am a PhD student in scientific machine learning at Polytecnic University of Milan. I am fascinated by the immense world that arises from blending core numerical methods with artificial intelligence learning techniques, which is what I am focusing on in my reasearch activities. 
       Lifelong learning is my attitude and working day-by-day for long-term goals my methodology.
       {style="text-align: justify;"}
 
