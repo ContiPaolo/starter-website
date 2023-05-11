@@ -86,8 +86,8 @@ Lifelong learning is my attitude and working day-by-day for long-term goals my m
 
 
 
-| Interests                  | Education                      |
-| ------------------------- | ------------------------------|
-| - Reduced Order Modeling    | - BSc in Mathematical Engineering |
-| - Scientific Machine Learning | - MSc in Mathematical Engineering |
-| - Multi-Fidelity Data Fusion | - PhD in Scientific Machine Learning (in progress) |
+| Interests                     | Education                                          |
+| ----------------------------- | -------------------------------------------------- |
+| - Reduced Order Modeling      | - BSc in Mathematical Engineering                  |
+| - Scientific Machine Learning | - MSc in Mathematical Engineering                  |
+| - Multi-Fidelity Data Fusion  | - PhD in Scientific Machine Learning (in progress) |
