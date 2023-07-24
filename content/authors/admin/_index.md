@@ -89,7 +89,7 @@ I am a PhD student in scientific machine learning at Polytecnic University of Mi
 | &bull; Reduced Order Modeling | &#127891; BSc in Mathematical Engineering            |
 | &bull; Scientific Machine Learning | &#127891; MSc in Mathematical Engineering         |
 | &bull; Multi-Fidelity Data Fusion | &#127891; PhD in Scientific Machine Learning (in progress) |
-
-</font>
 {style="text-align: justify;"}
+</font>
+
 
