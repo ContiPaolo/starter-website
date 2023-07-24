@@ -85,11 +85,11 @@ highlight_name: true
 
 <style>
 table {
-    width: 85%;
+    width: 95%;
 }
 
 td {
-    text-align: left;
+    text-align: center;
 }
 
 td:last-child {
