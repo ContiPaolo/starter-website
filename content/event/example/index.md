@@ -1,7 +1,7 @@
 ---
 title: Example Talk
 
-event: Vincitori Borse 2018: Paolo Conti
+event: Vincitori Borse 2018 - Paolo Conti
 event_url: https://www.youtube.com/watch?v=ICGX0WJVZsk&t=40s
 
 location: Wowchemy HQ
