@@ -86,9 +86,9 @@ I am a PhD student in scientific machine learning at Polytecnic University of Mi
 
 | Interests                     | Education                                          |
 | ----------------------------- | -------------------------------------------------- |
-| - Reduced Order Modeling      | - BSc in Mathematical Engineering                  |
-| - Scientific Machine Learning | - MSc in Mathematical Engineering                  |
-| - Multi-Fidelity Data Fusion  | - PhD in Scientific Machine Learning (in progress) |
+|  &bull; Reduced Order Modeling      |  &bull; BSc in Mathematical Engineering                  |
+|  &bull; Scientific Machine Learning |  &bull; MSc in Mathematical Engineering                  |
+|  &bull; Multi-Fidelity Data Fusion  |  &bull; PhD in Scientific Machine Learning (in progress) |
 
 {style="text-align: justify;"}
 </font>
