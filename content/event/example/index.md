@@ -1,8 +1,8 @@
 ---
 title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Vincitori Borse 2018: Paolo Conti
+event_url: https://www.youtube.com/watch?v=ICGX0WJVZsk&t=40s
 
 location: Wowchemy HQ
 address:
