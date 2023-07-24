@@ -85,8 +85,9 @@ highlight_name: true
 
 Education  
 &#127891; BSc in Mathematical Engineering   
- &#127891; MSc in Mathematical Engineering  
- &#127891; PhD in Scientific Machine Learning (in progress)
+&#127891; MSc in Mathematical Engineering  
+&#127891; PhD in Scientific Machine Learning (in progress)
+{style="text-align: justify;"}
 
 <p><style>
 table {
