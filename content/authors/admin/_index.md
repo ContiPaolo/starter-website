@@ -91,8 +91,8 @@ I am a PhD student in scientific machine learning at Polytecnic University of Mi
 | &bull; Multi-Fidelity Data Fusion | &#127891; PhD in Scientific Machine Learning (in progress) |
 
 {style="text-align: justify;"}
+</font>
 
-ciao
 
 
 
