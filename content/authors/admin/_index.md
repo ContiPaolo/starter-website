@@ -90,5 +90,6 @@ I am a PhD student in scientific machine learning at Polytecnic University of Mi
 | - Scientific Machine Learning | - MSc in Mathematical Engineering                  |
 | - Multi-Fidelity Data Fusion  | - PhD in Scientific Machine Learning (in progress) |
 
+ciao
 </font>
 
