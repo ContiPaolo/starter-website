@@ -89,6 +89,12 @@ highlight_name: true
 &#127891; PhD in Scientific Machine Learning (in progress)
 {style="text-align: justify;"}
 
+## Education  
+&bull; Reduced Order Modeling
+&bull; Scientific Machine Learning  
+&bull; Multi-Fidelity Data Fusion 
+{style="text-align: justify;"}
+
 <p><style>
 table {
     width: 95%;
@@ -112,4 +118,3 @@ td:last-child {
 
 </font>
 
-ciao
