@@ -89,7 +89,7 @@ table {
 }
 
 td {
-    text-align: center;
+    text-align: left;
 }
 
 td:last-child {
