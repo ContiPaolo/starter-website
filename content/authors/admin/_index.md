@@ -85,7 +85,7 @@ highlight_name: true
 
 <style>
 table {
-    width: 100%;
+    width: 85%;
 }
 
 td {
