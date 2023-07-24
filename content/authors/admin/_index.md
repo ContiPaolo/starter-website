@@ -85,7 +85,7 @@ highlight_name: true
 
 <style>
 table {
-    width: 100%;
+    width: 120%;
 }
 
 td {
@@ -93,7 +93,7 @@ td {
 }
 
 td:last-child {
-    text-align: right;
+    text-align: left;
 }
 </style>
 
