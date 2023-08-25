@@ -87,10 +87,3 @@ highlight_name: true
 &#127891; MSc in Mathematical Engineering  
 &#127891; PhD in Scientific Machine Learning (in progress)
 {style="text-align: justify;"}
-
-## Education  
-&bull; Reduced Order Modeling
-&bull; Scientific Machine Learning  
-&bull; Multi-Fidelity Data Fusion 
-{style="text-align: justify;"}
-
