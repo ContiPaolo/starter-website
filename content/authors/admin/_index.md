@@ -94,26 +94,3 @@ highlight_name: true
 &bull; Multi-Fidelity Data Fusion 
 {style="text-align: justify;"}
 
-<p><style>
-table {
-    width: 95%;
-    font-size: 18px; /* Adjust the font size as per your preference */
-}
-
-td {
-    text-align: left;
-}
-
-td:last-child {
-    text-align: left;
-}
-</style></p>
-
-| Interests                     | Education                                          |
-| ----------------------------- | -------------------------------------------------- |
-| &bull; Reduced Order Modeling | &#127891; BSc in Mathematical Engineering         |
-| &bull; Scientific Machine Learning | &#127891; MSc in Mathematical Engineering       |
-| &bull; Multi-Fidelity Data Fusion | &#127891; PhD in Scientific Machine Learning (in progress) |
-
-</font>
-
